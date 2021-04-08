@@ -1,2 +1,4 @@
 # TSFTASKS
-Youtube video link - 
+Student score predictor using linear regression
+Youtube video link - https://youtu.be/coYA0uUs4OI
+
